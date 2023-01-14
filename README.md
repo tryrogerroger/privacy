@@ -1,5 +1,7 @@
 # Roger Roger Privacy Policy
 
+Last updated: January 14, 2023
+
 At Roger Roger, we respect your privacy and are committed to protecting it. This privacy policy describes how we collect, use, and store your information when you use our browser extension application.
 
 ## Information We Collect
